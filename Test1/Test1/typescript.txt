@@ -1,0 +1,51 @@
+Script started on Fri 05 Jan 2018 10:49:07 PM PST
+]0;bbanks20@LAB-SCI-214-20L:~/371/Test1]7;file://LAB-SCI-214-20L/home/WHITWORTH.EDU/bbanks20/371/Test1]0;bbanks20@LAB-SCI-214-20L: ~/371/Test1[01;32mbbanks20@LAB-SCI-214-20L[00m:[01;34m~/371/Test1[00m$ ./Job.sh
+This invokes test1.cpp
+What is your name?Brandon
+Nice to meet you BrandonThis invokes script1.sh
+total 76
+drwxr-xr-x 2 bbanks20 domain users  4096 Jan  5 22:49 .
+drwxr-xr-x 4 bbanks20 domain users  4096 Jan  5 15:03 ..
+-rwxrwxr-x 1 bbanks20 domain users    70 Jan  5 13:21 file1
+-rwxrwxr-x 1 bbanks20 domain users    95 Jan  5 13:22 file2
+-rwxrwxr-x 1 bbanks20 domain users    29 Jan  5 19:53 file3
+-rwxrwxr-x 1 bbanks20 domain users   282 Jan  5 22:39 Job.sh
+-rwxrwxr-x 1 bbanks20 domain users   134 Jan  5 19:21 practiceCrap.sh
+-rwxrwxr-x 1 bbanks20 domain users    29 Jan  5 13:29 script1.sh
+-rwxrwxr-x 1 bbanks20 domain users   863 Jan  5 19:54 script2.sh
+-rwxrwxr-x 1 bbanks20 domain users   195 Jan  5 22:40 script3.sh
+-rwxrwxr-x 1 bbanks20 domain users   212 Jan  5 22:47 scripttwo.sh
+-rw-r--r-- 1 bbanks20 domain users 12288 Jan  5 22:48 .scripttwo.sh.swp
+-rwxr-xr-x 1 bbanks20 domain users 13984 Jan  5 15:06 test1
+-rwxrwxr-x 1 bbanks20 domain users   223 Jan  5 15:06 test1.cpp
+-rw-r--r-- 1 bbanks20 domain users     0 Jan  5 22:49 typescript
+14
+94515
+5 + 9
+2
+60
+I love math
+Or maybe I hate math
+I don't know
+Just no more math
+This invokes script2.sh
+How old is the child?
+10  7
+You get a pet Chupacabra
+What is your birthday month number?
+4
+April
+script3.sh is having errors, it has not been included in Job.sh. You can
+view the code in the Test1 folder.
+How many classes are you taking?
+3
+How many credits is this class worth?
+2
+How many credits is this class worth?
+4
+How many credits is this class worth?
+3
+]0;bbanks20@LAB-SCI-214-20L:~/371/Test1]7;file://LAB-SCI-214-20L/home/WHITWORTH.EDU/bbanks20/371/Test1]0;bbanks20@LAB-SCI-214-20L: ~/371/Test1[01;32mbbanks20@LAB-SCI-214-20L[00m:[01;34m~/371/Test1[00m$ exit
+logout
+
+Script done on Fri 05 Jan 2018 10:49:47 PM PST
